@@ -1,0 +1,1 @@
+This project is an interactive dashboard that uses a machine learning model to predict the health risk of an EV battery. Enter real-time sensor data like temperature, voltage, and charge cycles to get an instant classification of whether the battery is at a 'Low', 'Medium', or 'High' risk level.
